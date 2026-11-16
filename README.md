@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Piyush Sharma! 👋
 
-<!--
-**Piyush7207/Piyush7207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- B.Tech CSE (AI/ML) Student at K.R. Mangalam University.
+- Currently learning Python, Linux, Git and GitHub.
+- Interested in Artificial Intelligence, Machine Learning
+  and Full-Stack Development.
+- Passionate about programming and problem-solving.
+- Working towards becoming a skilled AI/ML Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python (Beginner), HTML, CSS |
+| Tools | Git, GitHub, VS Code |
+| Operating Systems | Linux, Windows |
+| Concepts | Shell Scripting, REST APIs, Markdown |
+| Interests | AI/ML, Web Development, Data Science |
+
+## Featured Projects
+
+### CSE103 Lab - LAB 3
+
+- Practicing Git and GitHub workflows.
+- Learning repository management.
+- Working with Linux commands.
+- Exploring API interaction and Markdown.
+
+GitHub Repository:
+https://github.com/YOUR_USERNAME/cse103-lab-LAB3
+
+## Currently Working On
+
+- Improving Python programming skills.
+- Learning Data Structures and Algorithms.
+- Practicing problem-solving.
+- Developing technical projects.
+
+## Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_COLLEGE_EMAIL
+
+⭐ Thanks for visiting my profile!
+
