@@ -29,7 +29,7 @@
 - Exploring API interaction and Markdown.
 
 GitHub Repository:
-https://github.com/YOUR_USERNAME/cse103-lab-LAB3
+https://github.com/Piyush7207/cse103-lab-LAB3
 
 ## Currently Working On
 
@@ -40,8 +40,8 @@ https://github.com/YOUR_USERNAME/cse103-lab-LAB3
 
 ## Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_COLLEGE_EMAIL
+- LinkedIn: www.linkedin.com/in/piyush-sharma-259220345
+- Email: 2601730060@krmu.edu.in
 
 ⭐ Thanks for visiting my profile!
 
